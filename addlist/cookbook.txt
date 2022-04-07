@@ -1,0 +1,7 @@
+# List of recipes to run via AutoPkg
+
+Firefox.munki.recipe
+Hancock.munki.recipe
+Imazing Profile Editor.munki.recipe
+Paw.munki.recipe
+zoom.us.munki.recipe
